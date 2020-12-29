@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "2oUm5VERhbhNNMgmINOaOZqOrRMfFcs98TLB0ba3064NlhtC+dJToVOFG+LFc46SQkI1v9gh4y4bSFB/bE2PGg==",
+  "success": true,
+  "projectFilePath": "/Users/nivedithag/Projects/healthApi/healthApi/healthApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/nivedithag/.nuget/packages/microsoft.aspnetcore.jsonpatch/3.1.10/microsoft.aspnetcore.jsonpatch.3.1.10.nupkg.sha512",
+    "/Users/nivedithag/.nuget/packages/microsoft.aspnetcore.mvc.newtonsoftjson/3.1.10/microsoft.aspnetcore.mvc.newtonsoftjson.3.1.10.nupkg.sha512",
+    "/Users/nivedithag/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/Users/nivedithag/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/Users/nivedithag/.nuget/packages/newtonsoft.json.bson/1.0.2/newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
